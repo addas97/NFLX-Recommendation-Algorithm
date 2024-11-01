@@ -1,6 +1,6 @@
 # NFLX-Recommendation-Algorithm
 
-Using a Gaussian mixture model, we build a collaborative filtering model to predict moview preferences of users from the NFLX movie rating database.
+Using a Gaussian mixture model, we build a collaborative filtering model to predict movie preferences of users from the NFLX movie rating database.
 
 The dataset contains movie ratings made by users. Each user has rated a fraction of the total movies available, so the data is only partially filled.
 
